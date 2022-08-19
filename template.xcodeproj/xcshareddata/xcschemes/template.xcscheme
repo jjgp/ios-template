@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2E6CFAD28B004CE00846F92"
                BuildableName = "template.app"
-               BlueprintName = "template"
+               BlueprintName = "iOS"
                ReferencedContainer = "container:template.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,8 +34,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2E6CFC328B004CF00846F92"
-               BuildableName = "templateTests.xctest"
-               BlueprintName = "templateTests"
+               BuildableName = "templateiOSTests.xctest"
+               BlueprintName = "iOSTests"
                ReferencedContainer = "container:template.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -45,8 +45,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2E6CFCD28B004CF00846F92"
-               BuildableName = "templateUITests.xctest"
-               BlueprintName = "templateUITests"
+               BuildableName = "templateiOSUITests.xctest"
+               BlueprintName = "iOSUITests"
                ReferencedContainer = "container:template.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -68,7 +68,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2E6CFAD28B004CE00846F92"
             BuildableName = "template.app"
-            BlueprintName = "template"
+            BlueprintName = "iOS"
             ReferencedContainer = "container:template.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -85,7 +85,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2E6CFAD28B004CE00846F92"
             BuildableName = "template.app"
-            BlueprintName = "template"
+            BlueprintName = "iOS"
             ReferencedContainer = "container:template.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
